@@ -1,5 +1,5 @@
 # Lab Sheet-07: Mini Projects on Unsupervised Learning
-
+Rajendra Singh Bisht
 MCA 3rd Semester (2026-2027), COER University, Roorkee
 
 | Project | Problem | Techniques |
@@ -13,4 +13,4 @@ clusters, cluster, visualize, evaluate, compare techniques, save the model, and 
 Install the libraries once: `pip install -r requirements.txt` (Python 3.11 or above).
 Then open a project folder and follow its README.
 
-See `EXAM_NOTES.md` for how to explain the projects in the viva.
+
