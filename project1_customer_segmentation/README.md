@@ -1,6 +1,6 @@
 # Project 1: Customer Segmentation using K-Means Clustering
 
-**Name:** <your name>  |  **Roll No:** <your roll number>
+**Name:** Rajendra Singh Bisht
 MCA 3rd Semester (2026-2027), COER University, Roorkee | Lab Sheet-07
 
 ## What it does
