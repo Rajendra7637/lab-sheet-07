@@ -1,0 +1,421 @@
+article_id,headline,category,kmeans_cluster,hierarchical_cluster
+1,Hospital warns about rise in flu cases,Health,2,3
+2,Startup announces cloud platform,Technology,4,1
+3,Cybersecurity update released for millions of users,Technology,4,1
+4,New smartphone launched with faster processor,Technology,4,1
+5,The head coach wins big in league match,Sports,0,4
+6,Opposition criticises government policy ahead of election,Politics,1,5
+7,New smartphone launched with faster processor,Technology,4,1
+8,The retailer posts strong quarterly profit,Business,3,2
+9,Fans celebrate record win for the head coach,Sports,0,4
+10,Researchers report breakthrough in heart disease treatment,Health,2,4
+11,The company unveils new artificial intelligence tool,Technology,4,1
+12,Study links exercise to lower disease risk,Health,2,3
+13,Drama series breaks streaming records,Entertainment,5,0
+14,The president defends new election bill,Politics,1,5
+15,Central bank cuts interest rates,Business,3,2
+16,Coalition parties agree on tax reform,Politics,1,5
+17,The manufacturer posts strong quarterly profit,Business,3,2
+18,Lawmakers defends new election bill,Politics,1,5
+19,Coach hails team after championship victory,Sports,0,4
+20,Late goal decides tournament semi-final,Sports,0,4
+21,Cybersecurity update released for millions of users,Technology,4,1
+22,Study links exercise to lower disease risk,Health,2,3
+23,Retailer announces merger plan,Business,3,2
+24,Study links exercise to lower disease risk,Health,2,3
+25,Coalition parties agree on tax reform,Politics,1,1
+26,Scientists report breakthrough in heart disease treatment,Health,2,3
+27,Coalition parties agree on tax reform,Politics,1,5
+28,Retailer announces merger plan,Business,3,2
+29,Singer announces world concert tour,Entertainment,5,0
+30,Drama series breaks streaming records,Entertainment,5,0
+31,Fans celebrate record win for the home side,Sports,0,4
+32,Opposition criticises government policy ahead of election,Politics,1,5
+33,Cybersecurity update released for millions of users,Technology,4,1
+34,Drama series breaks streaming records,Entertainment,5,0
+35,The study team report breakthrough in heart disease treatment,Health,2,3
+36,Coach hails team after championship victory,Sports,0,4
+37,Stock market rises as inflation eases,Business,3,2
+38,New smartphone launched with faster processor,Technology,4,1
+39,Singer announces world concert tour,Entertainment,5,0
+40,Party leaders defends new election bill,Politics,1,5
+41,Party leaders defends new election bill,Politics,1,5
+42,The company unveils new artificial intelligence tool,Technology,4,1
+43,Engineers unveils new artificial intelligence tool,Technology,4,1
+44,Coalition parties agree on tax reform,Politics,1,5
+45,Stock market rises as inflation eases,Business,3,2
+46,The lead actor premieres new film to rave reviews,Entertainment,5,0
+47,Retailer announces merger plan,Business,3,2
+48,Awards ceremony honours best film of the year,Entertainment,5,0
+49,New smartphone launched with faster processor,Technology,4,1
+50,Engineers unveils new artificial intelligence tool,Technology,4,1
+51,The minister defends new election bill,Politics,1,5
+52,Study links exercise to lower disease risk,Health,2,3
+53,Fans celebrate record win for the home side,Sports,0,4
+54,A leading software firm unveils new artificial intelligence tool,Technology,4,1
+55,Lawmakers defends new election bill,Politics,1,5
+56,Cybersecurity update released for millions of users,Technology,4,1
+57,Late goal decides tournament semi-final,Sports,0,4
+58,Awards ceremony honours best film of the year,Entertainment,5,0
+59,Late goal decides tournament semi-final,Sports,0,4
+60,Coach hails team after championship victory,Sports,0,4
+61,Coalition parties agree on tax reform,Politics,1,5
+62,The company unveils new artificial intelligence tool,Technology,4,1
+63,Late goal decides tournament semi-final,Sports,0,4
+64,Cybersecurity update released for millions of users,Technology,4,1
+65,Cybersecurity update released for millions of users,Technology,4,5
+66,Stock market rises as inflation eases,Business,3,2
+67,Investors posts strong quarterly profit,Business,3,2
+68,Coach hails team after championship victory,Sports,0,4
+69,Drama series breaks streaming records,Entertainment,5,0
+70,Coalition parties agree on tax reform,Politics,1,5
+71,The band premieres new film to rave reviews,Entertainment,5,0
+72,Awards ceremony honours best film of the year,Entertainment,5,0
+73,Opposition criticises government policy ahead of election,Politics,1,5
+74,Opposition criticises government policy ahead of election,Politics,1,5
+75,Doctors report breakthrough in heart disease treatment,Health,2,3
+76,Opposition criticises government policy ahead of election,Politics,1,5
+77,Stock market rises as inflation eases,Business,3,2
+78,Study links exercise to lower disease risk,Health,2,3
+79,Drama series breaks streaming records,Entertainment,5,0
+80,Awards ceremony honours best film of the year,Entertainment,5,0
+81,Study links exercise to lower disease risk,Health,2,3
+82,Late goal decides tournament semi-final,Sports,0,4
+83,Hospital warns about rise in flu cases,Health,2,3
+84,Awards ceremony honours best film of the year,Entertainment,5,0
+85,Hospital warns about rise in flu cases,Health,2,3
+86,Drama series breaks streaming records,Entertainment,5,0
+87,The retailer posts strong quarterly profit,Business,3,2
+88,The company unveils new artificial intelligence tool,Technology,4,1
+89,The central bank posts strong quarterly profit,Business,3,2
+90,Researchers unveils new artificial intelligence tool,Technology,4,1
+91,Party leaders defends new election bill,Politics,1,5
+92,Central bank cuts interest rates,Business,3,2
+93,Study links exercise to lower disease risk,Health,2,3
+94,Drama series breaks streaming records,Entertainment,5,0
+95,Health ministry launches vaccination drive,Health,2,3
+96,Retailer announces merger plan,Business,3,2
+97,New smartphone launched with faster processor,Technology,4,1
+98,New smartphone launched with faster processor,Technology,4,1
+99,Fans celebrate record win for the national squad,Sports,0,4
+100,Startup announces cloud platform,Technology,4,1
+101,Singer announces world concert tour,Entertainment,5,4
+102,Coach hails team after championship victory,Sports,0,4
+103,Startup announces cloud platform,Technology,4,1
+104,Coach hails team after championship victory,Sports,0,4
+105,Awards ceremony honours best film of the year,Entertainment,5,0
+106,Doctors report breakthrough in heart disease treatment,Health,2,3
+107,A leading software firm unveils new artificial intelligence tool,Technology,4,1
+108,Study links exercise to lower disease risk,Health,2,3
+109,Parliament debates national budget,Politics,1,5
+110,Study links exercise to lower disease risk,Health,2,3
+111,Health ministry launches vaccination drive,Health,2,3
+112,The captain wins big in league match,Sports,0,4
+113,Investors posts strong quarterly profit,Business,3,2
+114,Awards ceremony honours best film of the year,Entertainment,5,0
+115,Stock market rises as inflation eases,Business,3,2
+116,Stock market rises as inflation eases,Business,3,2
+117,Central bank cuts interest rates,Business,3,2
+118,Awards ceremony honours best film of the year,Entertainment,5,0
+119,Coach hails team after championship victory,Sports,0,4
+120,Fans celebrate record win for the home side,Sports,0,4
+121,The defending champions wins big in league match,Sports,0,4
+122,The study team report breakthrough in heart disease treatment,Health,2,3
+123,The director premieres new film to rave reviews,Entertainment,5,0
+124,Parliament debates national budget,Politics,1,5
+125,Cybersecurity update released for millions of users,Technology,4,1
+126,Opposition criticises government policy ahead of election,Politics,1,5
+127,Cybersecurity update released for millions of users,Technology,4,1
+128,Retailer announces merger plan,Business,3,2
+129,Late goal decides tournament semi-final,Sports,0,4
+130,New smartphone launched with faster processor,Technology,4,1
+131,The captain wins big in league match,Sports,0,4
+132,Late goal decides tournament semi-final,Sports,0,4
+133,New smartphone launched with faster processor,Technology,4,1
+134,Singer announces world concert tour,Entertainment,5,0
+135,Cybersecurity update released for millions of users,Technology,4,1
+136,Coach hails team after championship victory,Sports,0,4
+137,The central bank posts strong quarterly profit,Business,3,2
+138,Retailer announces merger plan,Business,3,2
+139,Retailer announces merger plan,Business,3,2
+140,New smartphone launched with faster processor,Technology,4,1
+141,The captain wins big in league match,Sports,0,4
+142,Fans celebrate record win for the visiting team,Sports,0,4
+143,Hospital warns about rise in flu cases,Health,2,3
+144,Awards ceremony honours best film of the year,Entertainment,5,0
+145,Parliament debates national budget,Politics,1,5
+146,Opposition criticises government policy ahead of election,Politics,1,5
+147,The festival organisers premieres new film to rave reviews,Entertainment,5,0
+148,Coach hails team after championship victory,Sports,0,4
+149,Singer announces world concert tour,Entertainment,5,0
+150,The startup unveils new artificial intelligence tool,Technology,4,1
+151,Retailer announces merger plan,Business,3,2
+152,A hospital report breakthrough in heart disease treatment,Health,2,3
+153,Central bank cuts interest rates,Business,3,2
+154,Coach hails team after championship victory,Sports,0,4
+155,Cybersecurity update released for millions of users,Technology,4,1
+156,Late goal decides tournament semi-final,Sports,0,4
+157,The national squad wins big in league match,Sports,0,4
+158,Engineers unveils new artificial intelligence tool,Technology,4,1
+159,Coalition parties agree on tax reform,Politics,1,5
+160,Retailer announces merger plan,Business,3,2
+161,Central bank cuts interest rates,Business,3,2
+162,Stock market rises as inflation eases,Business,3,2
+163,Cybersecurity update released for millions of users,Technology,4,1
+164,The developer team unveils new artificial intelligence tool,Technology,4,1
+165,Awards ceremony honours best film of the year,Entertainment,5,0
+166,Coalition parties agree on tax reform,Politics,1,5
+167,The defending champions wins big in league match,Sports,0,4
+168,Health ministry launches vaccination drive,Health,2,3
+169,Stock market rises as inflation eases,Business,3,2
+170,Drama series breaks streaming records,Entertainment,5,0
+171,Stock market rises as inflation eases,Business,3,2
+172,The company posts strong quarterly profit,Business,3,2
+173,The band premieres new film to rave reviews,Entertainment,5,0
+174,Retailer announces merger plan,Business,3,2
+175,A hospital report breakthrough in heart disease treatment,Health,2,3
+176,The singer premieres new film to rave reviews,Entertainment,5,0
+177,The young striker wins big in league match,Sports,0,4
+178,Opposition criticises government policy ahead of election,Politics,1,5
+179,New smartphone launched with faster processor,Technology,4,1
+180,New smartphone launched with faster processor,Technology,4,1
+181,Singer announces world concert tour,Entertainment,5,0
+182,Coach hails team after championship victory,Sports,0,4
+183,The veteran goalkeeper wins big in league match,Sports,0,4
+184,Hospital warns about rise in flu cases,Health,2,3
+185,Parliament debates national budget,Politics,1,5
+186,Singer announces world concert tour,Entertainment,5,1
+187,The defending champions wins big in league match,Sports,0,4
+188,Lawmakers defends new election bill,Politics,1,5
+189,Doctors report breakthrough in heart disease treatment,Health,2,3
+190,Opposition criticises government policy ahead of election,Politics,1,5
+191,Central bank cuts interest rates,Business,3,2
+192,Parliament debates national budget,Politics,1,5
+193,Researchers report breakthrough in heart disease treatment,Health,2,3
+194,Drama series breaks streaming records,Entertainment,5,0
+195,Awards ceremony honours best film of the year,Entertainment,5,0
+196,Study links exercise to lower disease risk,Health,2,3
+197,The health ministry report breakthrough in heart disease treatment,Health,2,3
+198,Shares of the bank posts strong quarterly profit,Business,3,2
+199,The president defends new election bill,Politics,1,5
+200,Doctors report breakthrough in heart disease treatment,Health,2,3
+201,Coach hails team after championship victory,Sports,0,4
+202,The health ministry report breakthrough in heart disease treatment,Health,2,3
+203,Lawmakers defends new election bill,Politics,1,5
+204,Central bank cuts interest rates,Business,3,2
+205,The manufacturer posts strong quarterly profit,Business,3,2
+206,Coach hails team after championship victory,Sports,0,4
+207,Shares of the bank posts strong quarterly profit,Business,3,2
+208,The young striker wins big in league match,Sports,0,4
+209,Hospital warns about rise in flu cases,Health,2,3
+210,The startup unveils new artificial intelligence tool,Technology,4,1
+211,Coalition parties agree on tax reform,Politics,1,5
+212,Fans celebrate record win for the home side,Sports,0,4
+213,Drama series breaks streaming records,Entertainment,5,0
+214,Coalition parties agree on tax reform,Politics,1,5
+215,A hospital report breakthrough in heart disease treatment,Health,2,3
+216,Study links exercise to lower disease risk,Health,2,3
+217,The singer premieres new film to rave reviews,Entertainment,5,0
+218,Parliament debates national budget,Politics,1,5
+219,Fans celebrate record win for the captain,Sports,0,4
+220,Parliament debates national budget,Politics,1,5
+221,The minister defends new election bill,Politics,1,5
+222,Singer announces world concert tour,Entertainment,5,0
+223,Coalition parties agree on tax reform,Politics,1,5
+224,Study links exercise to lower disease risk,Health,2,3
+225,Startup announces cloud platform,Technology,4,1
+226,Retailer announces merger plan,Business,3,2
+227,Awards ceremony honours best film of the year,Entertainment,5,0
+228,The retailer posts strong quarterly profit,Business,3,2
+229,The startup unveils new artificial intelligence tool,Technology,4,1
+230,The startup unveils new artificial intelligence tool,Technology,4,1
+231,Opposition criticises government policy ahead of election,Politics,1,5
+232,The festival organisers premieres new film to rave reviews,Entertainment,5,0
+233,Startup announces cloud platform,Technology,4,1
+234,Late goal decides tournament semi-final,Sports,0,4
+235,The visiting team wins big in league match,Sports,0,4
+236,Stock market rises as inflation eases,Business,3,2
+237,Startup announces cloud platform,Technology,4,1
+238,Drama series breaks streaming records,Entertainment,5,0
+239,Stock market rises as inflation eases,Business,3,2
+240,The company posts strong quarterly profit,Business,3,2
+241,Researchers report breakthrough in heart disease treatment,Health,2,3
+242,Startup announces cloud platform,Technology,4,1
+243,Singer announces world concert tour,Entertainment,5,0
+244,Singer announces world concert tour,Entertainment,5,0
+245,Startup announces cloud platform,Technology,4,1
+246,A hospital report breakthrough in heart disease treatment,Health,2,3
+247,The defending champions wins big in league match,Sports,0,4
+248,Central bank cuts interest rates,Business,3,2
+249,New smartphone launched with faster processor,Technology,4,1
+250,Parliament debates national budget,Politics,1,5
+251,Central bank cuts interest rates,Business,3,2
+252,The festival organisers premieres new film to rave reviews,Entertainment,5,0
+253,Retailer announces merger plan,Business,3,2
+254,Drama series breaks streaming records,Entertainment,5,0
+255,Opposition criticises government policy ahead of election,Politics,1,5
+256,Opposition criticises government policy ahead of election,Politics,1,5
+257,A hospital report breakthrough in heart disease treatment,Health,2,3
+258,Hospital warns about rise in flu cases,Health,2,3
+259,Cybersecurity update released for millions of users,Technology,4,1
+260,Retailer announces merger plan,Business,3,2
+261,Coach hails team after championship victory,Sports,0,4
+262,The company posts strong quarterly profit,Business,3,2
+263,New smartphone launched with faster processor,Technology,4,1
+264,Late goal decides tournament semi-final,Sports,0,4
+265,Fans celebrate record win for the visiting team,Sports,0,4
+266,Health ministry launches vaccination drive,Health,2,3
+267,Retailer announces merger plan,Business,3,2
+268,Coalition parties agree on tax reform,Politics,1,5
+269,The startup unveils new artificial intelligence tool,Technology,4,1
+270,Retailer announces merger plan,Business,3,2
+271,Coach hails team after championship victory,Sports,0,4
+272,Researchers unveils new artificial intelligence tool,Technology,4,2
+273,Parliament debates national budget,Politics,1,5
+274,Study links exercise to lower disease risk,Health,2,3
+275,Coalition parties agree on tax reform,Politics,1,5
+276,Coalition parties agree on tax reform,Politics,1,5
+277,The health ministry report breakthrough in heart disease treatment,Health,2,3
+278,Study links exercise to lower disease risk,Health,2,3
+279,Health ministry launches vaccination drive,Health,2,3
+280,Study links exercise to lower disease risk,Health,2,3
+281,The minister defends new election bill,Politics,1,5
+282,Cybersecurity update released for millions of users,Technology,4,1
+283,Hospital warns about rise in flu cases,Health,2,3
+284,Drama series breaks streaming records,Entertainment,5,0
+285,Study links exercise to lower disease risk,Health,2,3
+286,Health ministry launches vaccination drive,Health,2,3
+287,Singer announces world concert tour,Entertainment,5,0
+288,Hospital warns about rise in flu cases,Health,2,3
+289,Startup announces cloud platform,Technology,4,1
+290,Coach hails team after championship victory,Sports,0,4
+291,Health ministry launches vaccination drive,Health,2,3
+292,Awards ceremony honours best film of the year,Entertainment,5,0
+293,Startup announces cloud platform,Technology,4,1
+294,Fans celebrate record win for the home side,Sports,0,4
+295,Awards ceremony honours best film of the year,Entertainment,5,0
+296,Awards ceremony honours best film of the year,Entertainment,5,0
+297,Central bank cuts interest rates,Business,3,2
+298,Central bank cuts interest rates,Business,3,2
+299,Fans celebrate record win for the veteran goalkeeper,Sports,0,4
+300,Hospital warns about rise in flu cases,Health,2,3
+301,Startup announces cloud platform,Technology,4,1
+302,The company posts strong quarterly profit,Business,3,2
+303,Late goal decides tournament semi-final,Sports,0,4
+304,Cybersecurity update released for millions of users,Technology,4,1
+305,Coach hails team after championship victory,Sports,0,4
+306,Late goal decides tournament semi-final,Sports,0,4
+307,Singer announces world concert tour,Entertainment,5,0
+308,Retailer announces merger plan,Business,3,2
+309,The film studio premieres new film to rave reviews,Entertainment,5,0
+310,Awards ceremony honours best film of the year,Entertainment,5,0
+311,The manufacturer posts strong quarterly profit,Business,3,2
+312,Fans celebrate record win for the head coach,Sports,0,4
+313,Hospital warns about rise in flu cases,Health,2,3
+314,Opposition criticises government policy ahead of election,Politics,1,5
+315,Fans celebrate record win for the head coach,Sports,0,4
+316,Coalition parties agree on tax reform,Politics,1,5
+317,Opposition criticises government policy ahead of election,Politics,1,5
+318,Central bank cuts interest rates,Business,3,2
+319,New smartphone launched with faster processor,Technology,4,1
+320,Stock market rises as inflation eases,Business,3,2
+321,Fans celebrate record win for the veteran goalkeeper,Sports,0,4
+322,Health ministry launches vaccination drive,Health,2,3
+323,Startup announces cloud platform,Technology,4,1
+324,Opposition criticises government policy ahead of election,Politics,1,5
+325,Central bank cuts interest rates,Business,3,2
+326,Stock market rises as inflation eases,Business,3,2
+327,Health ministry launches vaccination drive,Health,2,3
+328,Stock market rises as inflation eases,Business,3,2
+329,Drama series breaks streaming records,Entertainment,5,0
+330,Coach hails team after championship victory,Sports,0,4
+331,Awards ceremony honours best film of the year,Entertainment,5,0
+332,Awards ceremony honours best film of the year,Entertainment,5,0
+333,The study team report breakthrough in heart disease treatment,Health,2,3
+334,Hospital warns about rise in flu cases,Health,2,3
+335,Cybersecurity update released for millions of users,Technology,4,1
+336,Study links exercise to lower disease risk,Health,2,3
+337,The lead actor premieres new film to rave reviews,Entertainment,5,0
+338,The festival organisers premieres new film to rave reviews,Entertainment,5,0
+339,Cybersecurity update released for millions of users,Technology,4,1
+340,Opposition criticises government policy ahead of election,Politics,1,5
+341,Hospital warns about rise in flu cases,Health,2,3
+342,The director premieres new film to rave reviews,Entertainment,5,0
+343,Coalition parties agree on tax reform,Politics,1,5
+344,Investors posts strong quarterly profit,Business,3,2
+345,Fans celebrate record win for the visiting team,Sports,0,4
+346,Parliament debates national budget,Politics,1,5
+347,Fans celebrate record win for the home side,Sports,0,4
+348,Investors posts strong quarterly profit,Business,3,2
+349,Hospital warns about rise in flu cases,Health,2,3
+350,Health ministry launches vaccination drive,Health,2,3
+351,Fans celebrate record win for the captain,Sports,0,4
+352,Opposition criticises government policy ahead of election,Politics,1,5
+353,Stock market rises as inflation eases,Business,3,2
+354,Awards ceremony honours best film of the year,Entertainment,5,0
+355,Parliament debates national budget,Politics,1,5
+356,Health ministry launches vaccination drive,Health,2,3
+357,Singer announces world concert tour,Entertainment,5,0
+358,Parliament debates national budget,Politics,1,5
+359,A hospital report breakthrough in heart disease treatment,Health,2,3
+360,Central bank cuts interest rates,Business,3,2
+361,Engineers unveils new artificial intelligence tool,Technology,4,1
+362,Retailer announces merger plan,Business,3,2
+363,The company unveils new artificial intelligence tool,Technology,4,1
+364,The study team report breakthrough in heart disease treatment,Health,2,3
+365,Fans celebrate record win for the captain,Sports,0,4
+366,New smartphone launched with faster processor,Technology,4,1
+367,Singer announces world concert tour,Entertainment,5,0
+368,Coalition parties agree on tax reform,Politics,1,5
+369,Stock market rises as inflation eases,Business,3,2
+370,Singer announces world concert tour,Entertainment,5,0
+371,The prime minister defends new election bill,Politics,1,5
+372,Party leaders defends new election bill,Politics,1,5
+373,Stock market rises as inflation eases,Business,3,2
+374,Parliament debates national budget,Politics,1,5
+375,Coach hails team after championship victory,Sports,0,4
+376,Fans celebrate record win for the home side,Sports,0,4
+377,Drama series breaks streaming records,Entertainment,5,0
+378,Fans celebrate record win for the visiting team,Sports,0,4
+379,Coalition parties agree on tax reform,Politics,1,5
+380,Late goal decides tournament semi-final,Sports,0,4
+381,Singer announces world concert tour,Entertainment,5,0
+382,Coach hails team after championship victory,Sports,0,4
+383,Scientists report breakthrough in heart disease treatment,Health,2,3
+384,Opposition criticises government policy ahead of election,Politics,1,5
+385,Doctors report breakthrough in heart disease treatment,Health,2,3
+386,Awards ceremony honours best film of the year,Entertainment,5,0
+387,Late goal decides tournament semi-final,Sports,0,4
+388,Opposition criticises government policy ahead of election,Politics,0,4
+389,Fans celebrate record win for the home side,Sports,0,4
+390,Health ministry launches vaccination drive,Health,2,3
+391,Awards ceremony honours best film of the year,Entertainment,5,0
+392,Startup announces cloud platform,Technology,4,1
+393,Researchers unveils new artificial intelligence tool,Technology,4,1
+394,The developer team unveils new artificial intelligence tool,Technology,4,1
+395,Awards ceremony honours best film of the year,Entertainment,5,0
+396,Late goal decides tournament semi-final,Sports,0,4
+397,The study team report breakthrough in heart disease treatment,Health,2,3
+398,Cybersecurity update released for millions of users,Technology,4,1
+399,Study links exercise to lower disease risk,Health,2,3
+400,Retailer announces merger plan,Business,3,2
+401,Study links exercise to lower disease risk,Health,2,3
+402,Opposition criticises government policy ahead of election,Politics,1,5
+403,Health ministry launches vaccination drive,Health,2,3
+404,The young striker wins big in league match,Sports,0,4
+405,Awards ceremony honours best film of the year,Entertainment,5,0
+406,New smartphone launched with faster processor,Technology,4,1
+407,The minister defends new election bill,Politics,1,5
+408,Startup announces cloud platform,Technology,4,1
+409,Awards ceremony honours best film of the year,Entertainment,5,0
+410,Cybersecurity update released for millions of users,Technology,4,1
+411,Parliament debates national budget,Politics,1,5
+412,Drama series breaks streaming records,Entertainment,5,0
+413,Coalition parties agree on tax reform,Politics,1,5
+414,Coalition parties agree on tax reform,Politics,1,5
+415,Retailer announces merger plan,Business,3,2
+416,The manufacturer posts strong quarterly profit,Business,3,2
+417,Engineers unveils new artificial intelligence tool,Technology,4,1
+418,Central bank cuts interest rates,Business,3,2
+419,Parliament debates national budget,Politics,1,5
+420,Awards ceremony honours best film of the year,Entertainment,5,0
