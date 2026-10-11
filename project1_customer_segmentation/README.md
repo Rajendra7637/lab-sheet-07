@@ -14,11 +14,8 @@ This is unsupervised learning: the data has no "correct answer" column.
 
 | File | What it does |
 |---|---|
-| `customer_segmentation.py` | The full project (one cell per step). |
 | `notebooks/customer_segmentation.ipynb` | The same project as a notebook. |
-| `predict.py` | Type a customer's details and get the segment (for the demo). |
 | `datasets/customer_data.csv` | The dataset (about 400 customers). |
-| `scripts/generate_dataset.py` | Creates the dataset again if it is deleted. |
 | `models/` | The saved model (made when you run the project). |
 | `outputs/` | The graphs and `customers_segmented.csv` (made when you run the project). |
 
